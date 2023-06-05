@@ -1,6 +1,6 @@
 ## OggyGPT
 - This AI bot is built on the cartoon character Oggy from the cartoon show "Oggy and the Cockroaches".
-- It has all the information about the world and also have a the characteristics.
+- It has all the information about the world and also have a the characteristics of Oggy.
 - Trained by [OpenAI](https://openai.com) and Programmed by [@TheSonicAI](https://github.com/thesonicai).
 
 ## License
